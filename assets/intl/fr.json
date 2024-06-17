@@ -1,0 +1,30 @@
+{
+    "app" : {
+        "name" : "Let's Shop",
+        "developed_by" : "créé par ",
+        "author" : "Outail Ouni",
+        "sponsored_by" : "sponsorisé par ",
+        "sponsor" : "Bene Bono"
+    },
+    "homepage": {
+        "seeAll" : "Voir tout",
+        "partners" : "Nos partenaires",
+        "add": "Ajouter au panier",
+        "remove" : "Supprimer"
+    },
+    "cart_screen" : {
+        "title" : "Inspectez votre panier",
+        "total" : "Somme",
+        "vat" : "TVA",
+        "checkout" : "Commander maintenant"
+        
+    },
+    "product_detail" : {
+        "title" : "Inspectez le produit",
+        "description" : "",
+        "chip_0" : "Avis",
+        "chip_1" : "A savoir",
+        "chip_2" : "Fabriquant",
+        "chip_3" : "Raison"
+    }
+}

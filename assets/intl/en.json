@@ -1,0 +1,29 @@
+{
+    "app" : {
+        "name" : "Let's Shop",
+        "developed_by" : "developed by ",
+        "author" : "Outail Ouni",
+        "sponsored_by" : "sponsored by ",
+        "sponsor" : "Bene Bono"
+    },
+    "homepage": {
+        "seeAll" : "See all",
+        "partners" : "Our Partners",
+        "add": "Add to cart",
+        "remove" : "Remove"
+    },
+    "cart_screen" : {
+        "title" : "Check out your cart",
+        "total" : "Total",
+        "vat" : "VAT",
+        "checkout" : "Buy now"
+    },
+    "product_detail" : {
+        "title" : "Check out this product",
+        "description" : "Check out this product",
+        "chip_0" : "Review",
+        "chip_1" : "Must know",
+        "chip_2" : "Fabricant",
+        "chip_3" : "Reason"
+    }
+}
